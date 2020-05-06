@@ -5,6 +5,14 @@
 ## Overview
 This lesson covers two sorting algorithms that use the distribution sort method: bucket sort and radix sort. This is different than the other sorting algorithms we've met so far, which use the comparison sorting method.
 
+## Homework Instructions
+
+1. If desired, fork this repo to your own account and/or clone down locally to your machine.
+1. Work through the exercises listed below. 
+1. When finished, submit an issue answering the exit ticket questions to summarize your learnings on this topic.
+
+Unless otherwise stated, homework is due by 10:00 am ET the next day. 
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Explain how bucket sort and radix sort work.
