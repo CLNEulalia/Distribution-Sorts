@@ -18,5 +18,5 @@ Directions: Answer the following questions!
 3. How is Radix Sort different from Bucket Sort? 
 > Your answer here. 
 
-4. What are Bucket Sort's worst-case time and space complexities (Big O values)? What would be ideal use case for Bucket Sort? 
+4. What are Bucket Sort's worst-case time and space complexities (Big O values)? What would be an ideal use case for Bucket Sort? 
 > Your answer here.
