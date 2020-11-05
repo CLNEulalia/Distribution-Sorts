@@ -11,7 +11,7 @@ function insertionSort(array) {
 	return array;
 }
 
-function bucketSort(array, numberOfBuckets) {
+function bucketSort(array) {
     // Your code here
 	return array;
 }
