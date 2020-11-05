@@ -1,4 +1,17 @@
-function bucketSort(items) {
+function insertionSort(array) {
+    // completed insertionSort, do not alter
+	for (let i = 1; i < array.length; i++) {
+		let currentValue = array[i];
+		let j = i - 1;
+		for (j; j >= 0 && array[j] > currentValue; j--) {
+			array[j + 1] = array[j];
+		}
+		array[j + 1] = currentValue;
+	}
+	return array;
+}
 
-    return items;
+function bucketSort(array, numberOfBuckets) {
+    // Your code here
+	return array;
 }
