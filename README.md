@@ -11,7 +11,7 @@ This lesson covers two sorting algorithms that use the distribution sort method:
 1. Work through the exercises listed below. 
 1. When finished, submit an issue answering the exit ticket questions to summarize your learnings on this topic.
 
-Unless otherwise stated, homework is due by 10:00 am ET the next day. 
+Unless otherwise stated, homework is due by 9:00 am ET the next day. 
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
